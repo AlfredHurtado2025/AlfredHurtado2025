@@ -17,7 +17,9 @@
 
 <h2>📜 Certifications & Pursuits:</h2>
 
-- 
+- [The Bits and Bytes of Computer Networking]() - In Progress
+- [Foundations of Cybersecurity]() - In Progress
+- [CompTIA A+]( ) - In Progress
 
 <h2>🛠️ Skills & Technologies:</h2>
 
