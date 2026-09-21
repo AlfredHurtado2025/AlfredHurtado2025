@@ -1,30 +1,36 @@
-<h1>Hi, I'm Alfred! <br/><a href="https://github.com/AlfredHurtado2025">Programmer</a>, <a href="https://www.linkedin.com/in/alfred-hurtado-reynoso/">Cybersecurity Student</a>,
+<h1>Hi, I'm Alfred! <br/><a href="https://github.com/AlfreHurtado2025">IT & Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/alfredhurtadoreynoso/">System & Network Support Enthusiast</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Technical Projects & Scripts:</h2>
 
+- <b>Python Utilities & Security Tools</b>
+  - [File Organizer]( ) - `[Fileorganizer.py](https://github.com/AlfredHurtado2025/Python/blob/main/Fileorganizer.py)`
+  - [Basic Port Scanner]( ) - `[portscanner.py](https://github.com/AlfredHurtado2025/Python/blob/main/portscanner.py)`
+  - [Password Randomizer]( ) - `[ramdpassword.py](https://github.com/AlfredHurtado2025/Python/blob/main/ramdpassword.py)`
+- <b>Enterprise Networking & Directory Services Sandbox</b>
+  - Active Directory administration in Windows Server (User/Group management, GPOs, account lockouts, `gpresult` auditing)[cite: 1]
+  - Multi-router dynamic routing failover and enterprise packet delivery using OSPF in Cisco Packet Tracer[cite: 1]
+- <b>Virtualization & OS Support Labs</b>
+  - Multi-VM virtual environments (Windows 10/11 & Linux) set up using VirtualBox, UTM, and VMware Fusion[cite: 1]
+  - File system architectures, permission auditing, and command-line network troubleshooting (`ipconfig`, `ping`, `tracert`, `gpupdate`)[cite: 1]
+- <b>Hands-on Security & Linux Modules</b>
+  - Analytical problem-solving and Linux navigation challenges on TryHackMe and Hack The Box[cite: 1]
 
+<h2>📜 Certifications & Pursuits:</h2>
 
-<h2>🥇 Certificates </h2>
+- 
 
+<h2>🛠️ Skills & Technologies:</h2>
 
+- <b>System Admin & Directory Services:</b> Active Directory (ADUC), Windows Server, GPOs, User/Group Permissions, Identity & Access Management[cite: 1]
+- <b>Networking & Protocols:</b> TCP/IP, DNS, DHCP, Subnetting, OSPF, Cisco Packet Tracer, Network Diagnostics[cite: 1]
+- <b>Tools & Environments:</b> VirtualBox, UTM, VMware Fusion, Windows 10/11, Kali Linux, Debian, Python[cite: 1]
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="AlfredHurtadoReynoso | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.linkedin.com/in/alfred-hurtado-reynoso-a50b6b2b0/)" />][linkedin]
+[<img align="left" alt="Alfred Hurtado | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Alfred Hurtado | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
-[linkedin]: [https://www.linkedin.com/in/alfred-hurtado-reynoso-a50b6b2b0]
+<br/>
 
-<!--
-**AlfredHurtado2025/AlfredHurtado2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/alfredhurtadoreynoso/
+[github]: https://github.com/AlfreHurtado2025
